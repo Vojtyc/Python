@@ -14,5 +14,3 @@ if z==1: c='!'
 if z==0: c='.'
 
 print 'Everybody sing a song:' + b + c
-
-print 'Everybody sing a song:' + b + c
